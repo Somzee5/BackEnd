@@ -1,0 +1,17 @@
+{
+  "name": "web-development-backend",
+  "version": "1.0.0",
+  "main": "script2.js",
+  "scripts": {
+    "start": "node script2.js",
+    "chacha": "node script2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soham Patil",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "one-liner-joke": "^1.2.2"
+  }
+}
